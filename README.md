@@ -19,20 +19,18 @@
 ## Cart Pole:
 <table>
   <tr>
-    <td><img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/08f7499e-9ec7-4938-89ea-f5d56d443fd8" width="300" height="200"></td>
     <td><img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/c7f460aa-8725-4220-b0f0-e7594c443e45" width="300" height="200"></td>
+    <td><img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/08f7499e-9ec7-4938-89ea-f5d56d443fd8" width="300" height="200"></td>
   </tr>
 </table>
 
 
 
 ## Acrobot:
-![acrobot](https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/e8aee2a8-3453-4d30-be60-86b5c4b5de6c)
-![acrobot](https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/838b7e64-99be-489c-a35d-e97b411c1c5d)
 
-
-
+<img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/e8aee2a8-3453-4d30-be60-86b5c4b5de6c" width="300" height="200"> <img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/838b7e64-99be-489c-a35d-e97b411c1c5d" width="300" height="200">
 
 ## Mountain Car:
-![mountaincar](https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/a313242c-d063-41a4-9d99-17c904599f6c)
-![mountain_car](https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/7078e424-3303-4216-86c1-bccd353ac3b1)
+
+<img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/a313242c-d063-41a4-9d99-17c904599f6c" width="300" height="200"> <img src="https://github.com/sagivantebi/Deep_Reinforcement_Learning-Final_Drill/assets/84729141/7078e424-3303-4216-86c1-bccd353ac3b1" width="300" height="200">
+
