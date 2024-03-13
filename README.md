@@ -1,8 +1,7 @@
-## Implement Actor-Critic with Transfer Learning for Control Problems
+## Actor-Critic with Transfer Learning for Control Problems
 
 ### Section 1: Training Individual Networks
 - Adapted actor-critic architecture for Acrobot-v1 and MountainCarContinuous-v0, in addition to retraining for CartPole-v1.
-- Ensured identical input and output sizes across tasks with padding and "empty" actions.
 - Provided statistics on running time and training iterations for each task.
 
 ### Section 2: Fine-Tuning Existing Models
